@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/crosshair.png","C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/bin/DesktopGL/Content/crosshair.xnb","TextureProcessor","Texture2DContent",379,16469,0.0752062
+"C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/target.png","C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",710,16469,0.0036264
+"C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/TestFont.spritefont","C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/bin/DesktopGL/Content/TestFont.xnb","FontDescriptionProcessor","SpriteFontContent",2254,70681,0.1320325
