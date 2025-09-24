@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/crosshair.png</File>
-    <File>C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/target.png</File>
-    <File>C:/Users/ROG/Desktop/Proyectos/Monogame/Test/Test Monogame/Content/TestFont.spritefont</File>
+    <File>C:/Users/ROG/Desktop/Proyectos/MonoGame-Testing/Content/crosshair.png</File>
+    <File>C:/Users/ROG/Desktop/Proyectos/MonoGame-Testing/Content/target.png</File>
+    <File>C:/Users/ROG/Desktop/Proyectos/MonoGame-Testing/Content/TestFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
